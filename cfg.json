@@ -1,0 +1,9 @@
+{
+    "underscoredAll": true,
+    "underscored": true,
+    "timestamps": true,
+    "paranoid": true,
+    "createdAt": "created_atx",
+    "updatedAt": "updated_atx",
+    "deletedAt": "deleted_atx"
+}
